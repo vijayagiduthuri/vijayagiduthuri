@@ -1,4 +1,4 @@
-# Hi 👋, I'm Vijaya Durga Giduthuri
+# Hi 👋, I'm Vijaya Giduthuri
 
 I’m a Full Stack Developer with a strong interest in data-driven and intelligent systems. I enjoy building modern web applications and integrating smart technologies to create practical, impactful solutions.
 
