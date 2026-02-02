@@ -44,10 +44,6 @@ All of my projects are available at [https://vijaya-portfolio.vercel.app/](https
 
 ---
 
-## 📫 How to reach me
-**vijayagiduthuri2@gmail.com**
-
----
 
 ## ⚡ Fun fact
 🏆 **Runner-Up at HackOverflow 2K25 among 50+ teams!** Passionate about creating innovative solutions and tackling real-world challenges with **AI and Full Stack Development**. 🚀
